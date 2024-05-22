@@ -1,0 +1,1 @@
+Bank{id=4, name='Tetta', address='St. Dia', cards=1}
